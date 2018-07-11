@@ -1,17 +1,16 @@
 {
-    "product" : [
+    "product": [
         {
-
-        "product_id" : 238,
-        "product_name" : "Nike A100",
-        "product_price": 2600,
-        "product_desc": "New nike 20158"
-    },
-    {
-        "product_id" : 100,
-        "product_name" : "Nike A200",
-        "product_price": 1600,
-        "product_desc": "New nike 20150"
-    }
+            "product_id": 238,
+            "product_name": "Nike A100",
+            "product_price": 2600,
+            "product_desc": "New nike 20158"
+        },
+        {
+            "product_id": 100,
+            "product_name": "Nike A200",
+            "product_price": 1600,
+            "product_desc": "New nike 20150"
+        }
     ]
 }
