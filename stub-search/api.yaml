@@ -9,3 +9,14 @@
       headers:
          content-type: application/json
       file: search-product-all.json
+
+-  request:
+      method: POST
+      url: /baskets
+      file: add-basket.json
+
+   response:
+      status: 200
+      headers:
+         content-type: application/json
+      file: add-basket-response.json
