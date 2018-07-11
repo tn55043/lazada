@@ -33,6 +33,8 @@
 -  request:
       method: POST
       url: /baskets
+      headers:
+         content-type: application/json
       file: add-basket.json
    response:
       status: 200
