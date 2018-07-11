@@ -19,3 +19,13 @@
       headers:
          content-type: application/json
       file: product-detail-238.json
+
+-  request:
+      method: GET
+      url: /baskets/1
+
+   response:
+      status: 200
+      headers:
+         content-type: application/json
+      file: basket-detail-1.json
