@@ -11,12 +11,32 @@
       file: search-product-all.json
 
 -  request:
-      method: POST
-      url: /buskets
-      query:
+      method: GET
+      url: /products/238
 
    response:
       status: 200
       headers:
          content-type: application/json
-      file: search-product-all.json
+      file: product-detail-238.json
+
+-  request:
+      method: GET
+      url: /baskets/1
+
+   response:
+      status: 200
+      headers:
+         content-type: application/json
+      file: basket-detail-1.json
+
+-  request:
+      method: POST
+      url: /baskets
+      file: add-basket.json
+   response:
+      status: 200
+      headers:
+         content-type: application/json
+      file: add-basket-response.json
+
