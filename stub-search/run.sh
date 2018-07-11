@@ -1,0 +1,1 @@
+java -jar stubby4j-6.0.1.jar --data api.yaml
