@@ -1,0 +1,17 @@
+{
+    "product" : [
+        {
+
+        "product_id" : 100,
+        "product_name" : "Nike A100",
+        "product_price": 2600,
+        "product_desc": "New nike 20158"
+    },
+    {
+        "product_id" : 100,
+        "product_name" : "Nike A100",
+        "product_price": 2600,
+        "product_desc": "New nike 20158"
+    }
+    ]
+}

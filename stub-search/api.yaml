@@ -1,0 +1,11 @@
+-  request:
+      method: GET
+      url: /search
+      query:
+        q: nike
+
+   response:
+      status: 200
+      headers:
+         content-type: application/json
+      file: search-product-all.json

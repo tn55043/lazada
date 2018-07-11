@@ -3,3 +3,4 @@ pkg/
 *.out
 src/vendor/
 *.log
+.DS_Store
