@@ -1,7 +1,7 @@
 {
+    "basket_id" : 1,
     "product" : [
-        {
-
+    {
         "product_id" : 238,
         "product_name" : "Nike A100",
         "product_price": 2600,

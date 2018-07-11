@@ -12,11 +12,11 @@
 
 -  request:
       method: POST
-      url: /baskets
-      file: add-basket.json
+      url: /buskets
+      query:
 
    response:
       status: 200
       headers:
          content-type: application/json
-      file: add-basket-response.json
+      file: search-product-all.json
