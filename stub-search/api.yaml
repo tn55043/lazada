@@ -40,3 +40,21 @@
          content-type: application/json
       file: add-basket-response.json
 
+-  request:
+      method: POST
+      url: /orders/1
+      file: add-order.json
+   response:
+      status: 200
+      headers:
+         content-type: application/json
+      file: add-order-response.json
+
+-  request:
+      method: POST
+      url: /baskets/1
+      file: upd-basket.json
+   response:
+      status: 200
+      headers:
+         content-type: application/json
