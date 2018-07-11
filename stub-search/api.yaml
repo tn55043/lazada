@@ -58,3 +58,13 @@
       status: 200
       headers:
          content-type: application/json
+
+-  request:
+      method: GET
+      url: /products/100
+
+   response:
+      status: 200
+      headers:
+         content-type: application/json
+      file: product-detail-100.json
